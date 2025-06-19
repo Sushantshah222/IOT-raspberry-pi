@@ -1,12 +1,11 @@
 
-    ```
-2.  **Create the virtual environment:**
+1.  **Create the virtual environment:**
     ```bash
     python3 -m venv venv
     ```
     This command creates a new directory named `venv` (you can choose a different name) inside your current directory, containing a copy of the Python interpreter and `pip`.
 
-3.  **Activate the virtual environment:**
+2.  **Activate the virtual environment:**
     ```bash
     source venv/bin/activate
     ```
